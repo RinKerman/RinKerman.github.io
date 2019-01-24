@@ -4,7 +4,7 @@ class myTooltipC {
         this.boxId = boxId
         this.config = {
             priority: 'top',       
-            partition: 1.4,         
+            partition: 1,         
             lineColor: 'rgba(128, 240, 252, 0.8)',     
             offset: [5, 5],
             L1: {
